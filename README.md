@@ -24,7 +24,7 @@ This Car Sales Analysis Dashboard (Power BI) visualizes Norway’s car market us
 •	Demonstrates data storytelling skills through visualization and key KPIs.
 
 # Project Highlights:
-Tools Used: Power BI, Excel/CSV dataset
+Tools Used: Power BI, Excel/CSV dataset <br />
 Key Skills Demonstrated: Data Cleaning, Data Modeling, DAX, Visualization, Reporting
 Dashboard Elements: KPIs, Pie Chart, Bar Chart, Line Chart, and Cards
 Focus: Brand-wise sales performance and market share comparison
