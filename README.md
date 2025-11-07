@@ -30,8 +30,7 @@ Dashboard Elements: KPIs, Pie Chart, Bar Chart, Line Chart, and Cards
 Focus: Brand-wise sales performance and market share comparison
 
 # Repository Structure (GitHub):
-Data
-
+•	Data: <a href "https://github.com/mayu45/Sales_Dashboard_PowerBI/blob/main/Norway_car_sales_by_make.csv"</a>
 
 # Feedback and Collaboration:
 I welcome feedback, suggestions, and contributions!
