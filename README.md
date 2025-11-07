@@ -31,7 +31,7 @@ Focus: Brand-wise sales performance and market share comparison  <br />
 
 # Repository Structure (GitHub):
 •	Data: <a href "https://github.com/mayu45/Sales_Dashboard_PowerBI/blob/main/Norway_car_sales_by_make.csv"</a> <br />
-•	Dashboard: https://github.com/mayu45/Sales_Dashboard_PowerBI/blob/main/Sales_Dashboard_PowerBI.pbix
+•	Dashboard: <a href "https://github.com/mayu45/Sales_Dashboard_PowerBI/blob/main/Sales_Dashboard_PowerBI.pbix"> <br />
 
 https://github.com/mayu45/Sales_Dashboard_PowerBI/blob/main/Snapshot.png
 https://github.com/mayu45/Sales_Dashboard_PowerBI/blob/main/Snapshot.png
