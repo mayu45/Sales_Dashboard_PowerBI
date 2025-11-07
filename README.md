@@ -30,13 +30,7 @@ Dashboard Elements: KPIs, Pie Chart, Bar Chart, Line Chart, and Cards
 Focus: Brand-wise sales performance and market share comparison
 
 # Repository Structure (GitHub):
-📁 Car-Sales-Dashboard
-│
-├── 📄 README.md               → Project overview and insights
-├── 📊 Car_Sales_Dashboard.pbix → Power BI dashboard file
-├── 📈 Car_Sales_Dataset.csv    → Source dataset
-├── 📝 Data_Cleaning_Steps.txt  → ETL and data preparation process
-└── 📷 Dashboard_Snapshot.png   → Screenshot of final Power BI dashboard
+Data
 
 
 # Feedback and Collaboration:
