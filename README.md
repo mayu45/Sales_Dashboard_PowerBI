@@ -30,7 +30,11 @@ Dashboard Elements: KPIs, Pie Chart, Bar Chart, Line Chart, and Cards  <br />
 Focus: Brand-wise sales performance and market share comparison  <br />
 
 # Repository Structure (GitHub):
-•	Data: <a href "https://github.com/mayu45/Sales_Dashboard_PowerBI/blob/main/Norway_car_sales_by_make.csv"</a>
+•	Data: <a href "https://github.com/mayu45/Sales_Dashboard_PowerBI/blob/main/Norway_car_sales_by_make.csv"</a> <br />
+•	Dynamic Filters: Dashboard includes slicers for filtering by brand and category.
+
+https://github.com/mayu45/Sales_Dashboard_PowerBI/blob/main/Snapshot.png
+https://github.com/mayu45/Sales_Dashboard_PowerBI/blob/main/Snapshot.png
 
 # Feedback and Collaboration:
 I welcome feedback, suggestions, and contributions!
