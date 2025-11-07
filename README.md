@@ -6,22 +6,22 @@ This Car Sales Analysis Dashboard (Power BI) visualizes Norway’s car market us
 
 
 # Key Insights and Features:
-•	Total Units Sold: 1.34M cars sold across different brands.
-•	Total Revenue: Generated revenue of ₹120M+ (example figure).
-•	Top Performing Brands: Volkswagen, Toyota, Ford, Audi, BMW, and Hyundai.
-•	Market Share Analysis: Visualized through an interactive pie chart showing brand-wise contribution.
-•	Top 5 Models by Revenue: Identified best-selling car models by revenue.
-•	Sales Trend: Line chart displaying monthly/quarterly sales trend for performance tracking.
-•	Brand Market Value: Bar chart comparing brand performance in terms of sales and revenue.
-•	Dynamic Filters: Dashboard includes slicers for filtering by brand and category.
+•	Total Units Sold: 1.34M cars sold across different brands. <br />
+•	Total Revenue: Generated revenue of ₹120M+ (example figure).  <br />
+•	Top Performing Brands: Volkswagen, Toyota, Ford, Audi, BMW, and Hyundai. <br />
+•	Market Share Analysis: Visualized through an interactive pie chart showing brand-wise contribution. <br />
+•	Top 5 Models by Revenue: Identified best-selling car models by revenue. <br />
+•	Sales Trend: Line chart displaying monthly/quarterly sales trend for performance tracking.  <br />
+•	Brand Market Value: Bar chart comparing brand performance in terms of sales and revenue.  <br />
+•	Dynamic Filters: Dashboard includes slicers for filtering by brand and category.  <br />
 
 
 # Why This Project Stands Out:
-•	Built an end-to-end interactive dashboard using Power BI with clear, professional layout.
-•	Real-world business problem: Car sales performance analysis for strategic decision-making.
-•	Clean data transformation using Power Query (ETL process).
-•	Applied data modeling, DAX calculations, and custom visuals for deeper insights.
-•	Demonstrates data storytelling skills through visualization and key KPIs.
+•	Built an end-to-end interactive dashboard using Power BI with clear, professional layout. <br />
+•	Real-world business problem: Car sales performance analysis for strategic decision-making. <br />
+•	Clean data transformation using Power Query (ETL process). <br />
+•	Applied data modeling, DAX calculations, and custom visuals for deeper insights. <br />
+•	Demonstrates data storytelling skills through visualization and key KPIs. <br />
 
 # Project Highlights:
 Tools Used: Power BI, Excel/CSV dataset <br />
