@@ -6,15 +6,22 @@ This Car Sales Analysis Dashboard (Power BI) visualizes Norway’s car market us
 
 
 # Key Insights and Features:
-### Total Units Sold: 
+#### Total Units Sold: 
 1.34M cars sold across different brands. <br />
-•	Total Revenue: Generated revenue of ₹120M+ (example figure).  <br />
-•	Top Performing Brands: Volkswagen, Toyota, Ford, Audi, BMW, and Hyundai. <br />
-•	Market Share Analysis: Visualized through an interactive pie chart showing brand-wise contribution. <br />
-•	Top 5 Models by Revenue: Identified best-selling car models by revenue. <br />
-•	Sales Trend: Line chart displaying monthly/quarterly sales trend for performance tracking.  <br />
-•	Brand Market Value: Bar chart comparing brand performance in terms of sales and revenue.  <br />
-•	Dynamic Filters: Dashboard includes slicers for filtering by brand and category.  <br />
+#### Total Revenue: 
+Generated revenue of ₹120M+ (example figure).  <br />
+#### Top Performing Brands: 
+Volkswagen, Toyota, Ford, Audi, BMW, and Hyundai. <br />
+#### Market Share Analysis: 
+Visualized through an interactive pie chart showing brand-wise contribution. <br />
+#### Top 5 Models by Revenue: 
+Identified best-selling car models by revenue. <br />
+#### Sales Trend: 
+Line chart displaying monthly/quarterly sales trend for performance tracking.  <br />
+#### Brand Market Value: 
+Bar chart comparing brand performance in terms of sales and revenue.  <br />
+#### Dynamic Filters: 
+Dashboard includes slicers for filtering by brand and category.  <br />
 
 
 # Why This Project Stands Out:
