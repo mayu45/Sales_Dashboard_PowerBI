@@ -43,9 +43,6 @@ Focus: Brand-wise sales performance and market share comparison  <br />
 •	Image: <img width="1164" height="654" alt="Snapshot" src="https://github.com/user-attachments/assets/086f8c78-5589-45bd-816a-63ea61e22213" />
 
 
-
-
-
 # Feedback and Collaboration:
 I welcome feedback, suggestions, and contributions!
 
